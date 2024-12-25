@@ -56,7 +56,7 @@ function footer_notice() {
 	text_print("／人◕ ‿‿ ◕人＼<br>我会画一些喜欢的东西！<br>每一到两周一个粗糙小作画<br>可能是视频或者一些粗糙的图片<br><a href='https://space.bilibili.com/3493121195248214/'>哔哩哔哩@酸野麻薯</a><br>Bluesky@ika-3");
 }
 function sidebox_notice() {
-	text_print("<p class='main-sidebox-section-text'>／人◕ ‿‿ ◕人＼<br>我会画一些喜欢的东西！<br>每一到两周一个粗糙小作画<br>可能是视频或者一些粗糙的图片<br><a href='https://space.bilibili.com/3493121195248214/'>哔哩哔哩@酸野麻薯</a><br>Bluesky@ika-3</p>");
+	text_print("<p class='main-sidebox-section-text'>／人◕ ‿‿ ◕人＼<br>我会画一些喜欢的东西！<br>每一到两周一个粗糙小作画<br>可能是视频或者一些粗糙的图片<br><a href='https://space.bilibili.com/3493121195248214/'>哔哩哔哩@酸野麻薯</a><br><a href='https://bsky.app/profile/ika-3.bsky.social/'>Bluesky@ika-3</a></p>");
 }
 function footer_links() {
 	text_print("<a href='https://www.github.com'>GitHub</a><br>");
