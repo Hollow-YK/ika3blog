@@ -99,6 +99,15 @@ article h3 a{color: #3264FF;}
 	-moz-user-select: none;
 	-ms-user-select: none;
 	user-select: none;}
+.from-site{
+	background-color: #3264FF;
+	color: #FFF;
+	padding:.125rem .25rem;
+	border-radius:0.25rem;
+	font-size: smaller;
+	font-family: "MiSans";
+	font-weight: 500;
+}
 /* article parts */
 /*bookinfo*/
 .bookinfo{
